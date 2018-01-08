@@ -172,6 +172,7 @@ $ sudo  apt-get install curl
 
 ## Otras herramientas
 
-En lo posible instalar las siguientes herramientas para facilitar su trabajo:
-#### pgAdmin 3
-#### POSTMAN
+#### > Chrome(chromium) o Firefox
+#### > pgAdmin 3
+#### > POSTMAN
+
