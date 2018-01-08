@@ -2,7 +2,7 @@
 
 
 
-## Lecturas recomendads para el temario de NodeJS (Día Martes)
+## Lecturas recomendads para el temario de NodeJS (Día Martes y Miércoles)
 
 
 - NodeJS
