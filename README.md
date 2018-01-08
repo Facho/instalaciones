@@ -173,6 +173,16 @@ $ sudo  apt-get install curl
 ## Otras herramientas
 
 #### > Chrome(chromium) o Firefox
+
+> https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en-GB
+
+  - Sección Install Chrome on Linux
+
 #### > pgAdmin 3
+
+> https://portallinux.es/instalacion-postgresql-pgadmin3-ubuntu-16-04/
+
+  - Sección: Instalación de PgAdmin3 
 #### > POSTMAN
 
+> https://www.getpostman.com/apps
