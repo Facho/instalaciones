@@ -19,6 +19,12 @@
     - http://es6-features.org
 
 ---------------------------------
+## Lecturas recomendads para el temario de REST (Día Miércoles)
+- REST
+    - http://www.restapitutorial.com/lessons/whatisrest.html
+
+
+---------------------------------
 
 ## Lecturas recomendadas para el temario de frontend (Día Jueves)
 - Vue.js como Framework principal. [Sitio oficial](https://vuejs.org/) o en [español](https://es-vuejs.github.io/vuejs.org/)
