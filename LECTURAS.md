@@ -7,6 +7,10 @@
 
 - NodeJS
   - https://nodejs.org/dist/latest-v8.x/docs/api/
+- NPM
+  - https://docs.npmjs.com/
+  - También se puede buscar la lista de comandos más comunes, como por ejemplo:
+    - https://gist.github.com/AvnerCohen/4051934
 - ExpressJS
   - http://expressjs.com/en/4x/api.html
 - Sequelize como ORM
