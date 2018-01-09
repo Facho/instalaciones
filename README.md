@@ -172,6 +172,12 @@ $ sudo  apt-get install curl
 
 ## Otras herramientas
 
+
+#### > VISUAL CODE
+
+> https://code.visualstudio.com/Download
+
+
 #### > Chrome(chromium) o Firefox
 
 > https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en-GB
