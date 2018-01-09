@@ -2,7 +2,7 @@
 
 
 
-## Lecturas recomendads para el temario de NodeJS (Día Martes y Miércoles)
+## Lecturas recomendadas para el temario de NodeJS (Día Martes y Miércoles)
 
 
 - NodeJS
@@ -19,7 +19,7 @@
     - http://es6-features.org
 
 ---------------------------------
-## Lecturas recomendads para el temario de REST (Día Miércoles)
+## Lecturas recomendadas para el temario de REST (Día Miércoles)
 - REST
     - http://www.restapitutorial.com/lessons/whatisrest.html
 
